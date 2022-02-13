@@ -1,0 +1,27 @@
+Request URL: http://scxk.nmpa.gov.cn:81/xk/itownet/portalAction.do?method=getXkzsList
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 127.0.0.1:4780
+Referrer Policy: strict-origin-when-cross-origin
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 6772
+Content-Type: application/json;charset=UTF-8
+Date: Thu, 20 Jan 2022 07:11:28 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Keep-Alive: timeout=4
+Pragma: No-cache
+Proxy-Connection: keep-alive
+Server: Apache-Coyote/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Content-Length: 75
+Content-Type: application/x-www-form-urlencoded;utf-8
+Cookie: JSESSIONID=B857FA7DF0B9656D5B283F40BB57A529; acw_tc=b65cfd3a16426611222571109e5713e3fbe227288b2149b605dfcd84e60a94; JSESSIONID=21AEFA9B9BFADF499229F44D1FDFE2DE
+Host: scxk.nmpa.gov.cn:81
+Origin: http://scxk.nmpa.gov.cn:81
+Proxy-Connection: keep-alive
+Referer: http://scxk.nmpa.gov.cn:81/xk/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+X-Requested-With: XMLHttpRequest
