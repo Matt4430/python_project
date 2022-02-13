@@ -1,0 +1,10 @@
+1、下载 pyinstxtractor.py
+地址：https://sourceforge.net/projects/pyinstallerextractor/
+
+2、把pyinstxtractor.py和exe文件放在同个目录下
+
+打开cmd，进入该目录，输入：
+
+python2 pyinstxtractor.py xx.exe
+
+运行后生成xx.exe_extracted文件夹。
