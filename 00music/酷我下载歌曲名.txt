@@ -1,0 +1,75 @@
+{
+	title: "<img src='./images/31.jpg' alt='' /><div class='item-song'>How_You_Like_That</div><div class='item-artist'>BLACKPINK</div>",
+	itunes: "./music_number/How_You_Like_That-BLACKPINK-143714296.mp3",
+	mp3: "./music_number/How_You_Like_That-BLACKPINK-143714296.mp3",
+},
+{
+	title: "<img src='./images/27.jpg' alt='' /><div class='item-song'>Lovesick_Girls</div><div class='item-artist'>BLACKPINK</div>",
+	itunes: "./music_number/Lovesick_Girls-BLACKPINK-152094144.mp3",
+	mp3: "./music_number/Lovesick_Girls-BLACKPINK-152094144.mp3",
+},
+{
+	title: "<img src='./images/25.jpg' alt='' /><div class='item-song'>Natural</div><div class='item-artist'>Imagine_Dragons</div>",
+	itunes: "./music_number/Natural-Imagine_Dragons-56492555.mp3",
+	mp3: "./music_number/Natural-Imagine_Dragons-56492555.mp3",
+},
+{
+	title: "<img src='./images/33.jpg' alt='' /><div class='item-song'>Summer(PIANO_VER_)</div><div class='item-artist'>久石让</div>",
+	itunes: "./music_number/Summer(PIANO_VER_)-久石让-51554031.flac",
+	mp3: "./music_number/Summer(PIANO_VER_)-久石让-51554031.flac",
+},
+{
+	title: "<img src='./images/40.jpg' alt='' /><div class='item-song'>Welcome_to_Planet_Urf</div><div class='item-artist'>英雄联盟</div>",
+	itunes: "./music_number/Welcome_to_Planet_Urf-英雄联盟-6403636.mp3",
+	mp3: "./music_number/Welcome_to_Planet_Urf-英雄联盟-6403636.mp3",
+},
+{
+	title: "<img src='./images/43.jpg' alt='' /><div class='item-song'>Welcome_to_Planet_Urf</div><div class='item-artist'>英雄联盟.mp3</div>",
+	itunes: "./music_number/Welcome_to_Planet_Urf-英雄联盟.mp3",
+	mp3: "./music_number/Welcome_to_Planet_Urf-英雄联盟.mp3",
+},
+{
+	title: "<img src='./images/13.jpg' alt='' /><div class='item-song'>天空之城</div><div class='item-artist'>宫崎骏</div>",
+	itunes: "./music_number/天空之城-宫崎骏-20275632.flac",
+	mp3: "./music_number/天空之城-宫崎骏-20275632.flac",
+},
+{
+	title: "<img src='./images/23.jpg' alt='' /><div class='item-song'>好春光</div><div class='item-artist'>吴彤</div>",
+	itunes: "./music_number/好春光-吴彤-22862119.mp3",
+	mp3: "./music_number/好春光-吴彤-22862119.mp3",
+},
+{
+	title: "<img src='./images/43.jpg' alt='' /><div class='item-song'>好春光</div><div class='item-artist'>吴彤.mp3</div>",
+	itunes: "./music_number/好春光-吴彤.mp3",
+	mp3: "./music_number/好春光-吴彤.mp3",
+},
+{
+	title: "<img src='./images/32.jpg' alt='' /><div class='item-song'>幽灵公主</div><div class='item-artist'>米良美一</div>",
+	itunes: "./music_number/幽灵公主-米良美一-673467.flac",
+	mp3: "./music_number/幽灵公主-米良美一-673467.flac",
+},
+{
+	title: "<img src='./images/1.jpg' alt='' /><div class='item-song'>提莫队长正在待命(DJ版)</div><div class='item-artist'>黄钰杰</div>",
+	itunes: "./music_number/提莫队长正在待命(DJ版)-黄钰杰-167664004.mp3",
+	mp3: "./music_number/提莫队长正在待命(DJ版)-黄钰杰-167664004.mp3",
+},
+{
+	title: "<img src='./images/11.jpg' alt='' /><div class='item-song'>晴天</div><div class='item-artist'>周杰伦</div>",
+	itunes: "./music_number/晴天-周杰伦-228908.mp3",
+	mp3: "./music_number/晴天-周杰伦-228908.mp3",
+},
+{
+	title: "<img src='./images/16.jpg' alt='' /><div class='item-song'>缘分一道桥</div><div class='item-artist'>王力宏_谭维维</div>",
+	itunes: "./music_number/缘分一道桥-王力宏_谭维维-36878203.mp3",
+	mp3: "./music_number/缘分一道桥-王力宏_谭维维-36878203.mp3",
+},
+{
+	title: "<img src='./images/25.jpg' alt='' /><div class='item-song'>舍不得你走</div><div class='item-artist'>冯一航</div>",
+	itunes: "./music_number/舍不得你走-冯一航-144611163.mp3",
+	mp3: "./music_number/舍不得你走-冯一航-144611163.mp3",
+},
+{
+	title: "<img src='./images/18.jpg' alt='' /><div class='item-song'>酒干倘卖无</div><div class='item-artist'>孙露</div>",
+	itunes: "./music_number/酒干倘卖无-孙露-6965616.mp3",
+	mp3: "./music_number/酒干倘卖无-孙露-6965616.mp3",
+},
